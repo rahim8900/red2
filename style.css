@@ -1,0 +1,44 @@
+.lovhe {
+    padding: 20px;
+    background-color: darkgrey;
+    width: 20vw;
+    height: 20vh;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: calc((100vh - 300px)/2);
+}
+
+.sorgu {
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15%;
+}
+
+.red {
+    border: none;
+    background-color: red;
+    color: white;
+    width: 5vw;
+    height: 5vh;
+    text-align: center;
+
+
+}
+
+.blue {
+    border: none;
+    background-color: blue;
+    color: white;
+    width: 5vw;
+    height: 5vh;
+    text-align: center;
+}
+
+.boom {
+    display: none;
+}
